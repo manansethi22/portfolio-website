@@ -14,9 +14,12 @@ function App() {
   useEffect(() => {
     Aos.init();
   }, [])
+
+  const backgroundColor = "#e9f5f8";  
   
   return(
     <>
+    <div style={{ backgroundColor }}>
     <Header/>
     <main>
     <Hero/>
@@ -27,6 +30,7 @@ function App() {
     </main>
     
     <Footer/>
+    </div>
 
 
     
