@@ -24,7 +24,7 @@ const Hero = () => {
         data-aos-duration="1800"
         data-aos-delay="200"
         className="flex items-center gap-6 mt-7">
-          <a href="https://drive.google.com/drive/folders/19pKzT_yWKGNBNJlsrrXXPiwlpjLgbQdV?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1XqwOxcJ_xfxrnpCeAVUUehG-owFtH-iK/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
             <i class="ri-download-fill"></i> Resume
             </button>
