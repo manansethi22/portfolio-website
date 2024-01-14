@@ -15,7 +15,7 @@ function App() {
     Aos.init();
   }, [])
 
-  const backgroundColor = "#e9f5f8";  
+  const backgroundColor = "#F5F5F5";  
   
   return(
     <>
