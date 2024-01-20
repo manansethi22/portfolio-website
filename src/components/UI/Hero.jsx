@@ -1,5 +1,5 @@
 import React from "react";
-import heroImg from "../../assets/images/hero.jpg";
+import heroImg from "../../assets/images/Hero1.jpg";
 import CountUp from "react-countup";
 import Typed from "typed.js";
 import { useRef } from "react";
